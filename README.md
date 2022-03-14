@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mary
-- 👀 I’m interested in coding
-- 💞️ I’m looking to collaborate here
+- 👀 I’m interested in web dev
+- 💞️ I’m looking to collaborate and network here
 - 📫 You can reach me by email bumary2016@gmail.com
 - 
 
